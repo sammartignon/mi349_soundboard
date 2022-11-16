@@ -26,16 +26,10 @@ buttonElement.addEventListener('mouseenter', function () {
     cheering.play()
   })
 
-    var buttonElement = document.getElementById('button3')
-    var call = new Audio("call_to_arms.wav")
-    var cannonfire = new Audio("cannon_x.wav")
+  var buttonElement = document.getElementById('button3')
+  var calling = new Audio("call_to_arms.wav")
+  var cannon = new Audio("cannon_x.wav")
 
-
-    buttonElement.addEventListener('mouseenter', function () {
+  buttonElement.addEventListener('mouseenter', function () {
     console.log('I was Hovered on!!')
-   })
-
-    buttonElement.addEventListener('click', function () {
-    console.log('I was Clicked')
-   })
-
+  })
