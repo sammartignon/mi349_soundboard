@@ -32,4 +32,10 @@ buttonElement.addEventListener('mouseenter', function () {
 
   buttonElement.addEventListener('mouseenter', function () {
     console.log('I was Hovered on!!')
+    calling.play()
+  })
+
+  buttonElement.addEventListener('click', function () {
+    console.log('I was Clicked'),
+    cannon.play()
   })
