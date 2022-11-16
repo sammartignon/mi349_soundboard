@@ -27,12 +27,12 @@ buttonElement.addEventListener('mouseenter', function () {
   })
 
   var buttonElement = document.getElementById('button3')
-  var call2arms = new Audio("call_to_arms.wav")
+  var call = new Audio("call_to_arms.wav")
   var cannonfire = new Audio("cannon_x.wav")
 
   buttonElement.addEventListener('mouseenter', function () {
     console.log('I was Hovered on!!'),
-    call2arms.play()
+    call.play()
   })
 
   buttonElement.addEventListener('click', function () {
