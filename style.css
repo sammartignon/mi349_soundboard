@@ -24,3 +24,13 @@
     font-weight: bold;
     background-color: tan;
 }
+html {
+    background-color: #f3f3f3;
+}
+body {
+margin: 40px;
+padding: 40px;
+color: #242424;
+border-top: 10px solid #242424;
+border-bottom: 15px solid #242424;
+}
