@@ -9,7 +9,7 @@
    margin: 10px;
    float: inline-end;
 }
-.button1 {
+#button1 {
     color: blueviolet;
     font-weight: bold;
 }
