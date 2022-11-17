@@ -2,12 +2,10 @@
     width: 30px;
     display: inline-block;
     padding: 20px 10px;
+    margin: 0 auto;
+    width: 300px;
 }
 .image {
    size: 100px 100px;
    margin: 10px;
-}
-.blist {
-    margin: 0 auto;
-    width: 300px;
 }
