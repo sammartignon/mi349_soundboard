@@ -12,4 +12,15 @@
 #button1 {
     color: blueviolet;
     font-weight: bold;
+    background-color: #f3f3f3;
+}
+#button2 {
+    color: gold;
+    font-weight: bold;
+    background-color: lightseagreen;
+}
+#button3 {
+    color: darkgreen;
+    font-weight: bold;
+    background-color: tan;
 }
