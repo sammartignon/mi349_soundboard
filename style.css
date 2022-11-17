@@ -7,5 +7,9 @@
 .image {
    size: 100px 100px;
    margin: 10px;
-   float: right;
+   float: inline-end;
+}
+.button1 {
+    color: blueviolet;
+    font-weight: bold;
 }
